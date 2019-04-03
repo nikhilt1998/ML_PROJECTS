@@ -69,19 +69,17 @@ activation_38 (Activation) ,   (None, 10)            ,    0
 
 Total params: 1,369,738,
 Trainable params: 1,369,738,
-Non-trainable params: 0
+Non-trainable params: 0,
+Accuracy:0.9088
 _________________________________________________________________
 
-None,
-10000/10000 [==============================] - 45s 5ms/step,
-Accuracy:0.9088
 
 
 
 
 
 
-------NATURAL LANGUAGE PROCESSING------------
+----------------------NATURAL LANGUAGE PROCESSING------------------------------------
 
 #####################################################################################
                          TEXT_CLASSIFICATION
