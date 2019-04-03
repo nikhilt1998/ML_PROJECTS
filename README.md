@@ -24,7 +24,7 @@ The All-CNN Model-C
 * global averaging over 6 × 6 spatial dimensions
 * 10 or 100-way softmax
 
-=================================================================
+
 Layer (type)                 Output Shape              Param    
 =================================================================
 conv2d_41 (Conv2D)           (None, 32, 32, 96)        2688      
