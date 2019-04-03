@@ -61,9 +61,10 @@ activation_37 (Activation)   (None, 8, 8, 192)         0
 _________________________________________________________________
 conv2d_49 (Conv2D)           (None, 8, 8, 10)          1930      
 _________________________________________________________________
-global_average_pooling2d_5 ( (None, 10)                0         
+global_average_pooling2d_5 ( (None, 10)                0 
 _________________________________________________________________
-activation_38 (Activation)   (None, 10)                0         
+activation_38 (Activation)   (None, 10)                0
+
 =================================================================
 Total params: 1,369,738
 Trainable params: 1,369,738
@@ -74,11 +75,11 @@ None
 Accuracy:0.9088
 
 
-
+NATURAL LANGUAGE PROCESSING
 
 ###################################################################
-TEXT_CLASSIFICATION					 
-####################################################################
+                  TEXT_CLASSIFICATION					 
+###################################################################
 
 The text classification is done using 
 ensemble method - Voting classifier...i.e.
